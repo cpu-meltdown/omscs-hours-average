@@ -15,3 +15,5 @@ Week2,5-20,5.5
 ,5-25,5
 ,5-26,1
 ```
+
+This is made so students can provide reviews on https://omscentral.com/courses so future students can make use of the info :slightly_smiling_face:
